@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../hw5/assests"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "helia-chaharmir-hw6-maktab66"
+	}
+}
